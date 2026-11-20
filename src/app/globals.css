@@ -1,9 +1,9 @@
-/* SPP & Tabungan TK — gaya "mainan kayu Montessori": kayu muda, busur pelangi, warna tanah yang flat */
+/* SPP & Tabungan TK, palet pastel lavender, teal, biru, pink, dan krem */
 :root {
-  --kayu: #f3eadc; --kayu2: #eadfcd; --kertas: #fffaf2; --garis: #e4d6c0; --garis2: #d6c4a8;
-  --tinta: #3d2f28; --tinta2: #76645a; --tinta3: #a89585;
-  --terakota: #cf6a4c; --terakota2: #f7dfd5; --mustard: #e2a33a; --mustard2: #fbeccb;
-  --sage: #6f9367; --sage2: #e1ebdb; --biru: #5a83a6; --biru2: #dce7f1; --plum: #94688a; --plum2: #efe1eb;
+  --kayu: #f2ecff; --kayu2: #e8def8; --kertas: #fffaff; --garis: #d9c8f4; --garis2: #bda7df;
+  --tinta: #352342; --tinta2: #735d7d; --tinta3: #a38db0;
+  --terakota: #e88cae; --terakota2: #ffe0ec; --mustard: #f1c879; --mustard2: #fff0c9;
+  --sage: #79c8b6; --sage2: #d7f3ed; --biru: #88bce8; --biru2: #dceeff; --plum: #a98cda; --plum2: #eee2ff;
   --r: 18px; --r2: 12px;
   --font-judul: var(--f-baloo), "Baloo 2", system-ui, sans-serif;
   --font-isi: var(--f-karla), Karla, system-ui, sans-serif;
